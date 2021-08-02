@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100453068818",
+    "project_id": "socialchat-cc2be",
+    "storage_bucket": "socialchat-cc2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100453068818:android:bee5d4971a1145802428cb",
+        "android_client_info": {
+          "package_name": "com.example.socialchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100453068818-gq789jgka6tib2iakuo4vsciiolge21c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoyhVHn3-m3Pf-hO1A0_VE2WRV0gvvDjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100453068818-gq789jgka6tib2iakuo4vsciiolge21c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
